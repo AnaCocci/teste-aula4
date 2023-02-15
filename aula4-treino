@@ -1,0 +1,23 @@
+
+
+let nome = 'Ana Carolina';
+let idade = '37 anos';
+let signo = 'Libra';
+let filha1 = 'Melissa com 20 anos';
+let filha2 = 'Marceline com 3 anos';
+let estado = 'São Paulo';
+let nomeCurso = 'Pretalab';
+
+console.log
+(`Olá, meu nome é ${nome}, tenho ${idade} e sou do signo de ${signo}. Tenho duas filhas, ${filha1} e ${filha2}. Moro em ${estado} e estou amando o curso da ${nomeCurso}.`);
+
+nome = 'Maria';
+idade = '50 anos';
+signo = 'áries';
+filha1 = 'Julia com 25 anos';
+filha2 = 'Roberta com 17 anos';
+estado = 'Pernanbuco';
+nomeCurso = 'introdução a técnologia da Pretalab';
+
+console.log
+(`Olá, meu nome é ${nome}, tenho ${idade} e sou do signo de ${signo}. Tenho duas filhas, ${filha1} e ${filha2}. Moro em ${estado} e estou amando o curso de ${nomeCurso}.`);
