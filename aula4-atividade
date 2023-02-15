@@ -1,0 +1,17 @@
+
+const nomePaís = 'Brasil';
+const pontoTuristico = 'Edifício COPAN';
+const capitalDoPaís = 'Brasília';
+const quantidadeDeEstados = 26;
+const pertenceAAméricaLatina = 'Sim';
+
+console.log(nomePaís);
+console.log(pontoTuristico);
+console.log(capitalDoPaís);
+console.log(quantidadeDeEstados);
+console.log(pertenceAAméricaLatina);
+
+console.log
+(
+    `Eu me chamo Ana Carolina e moro no ${nomePaís} que possui ${quantidadeDeEstados} estados, e que tem ${capitalDoPaís} como capital. No meu estado o ponto turístico é o ${pontoTuristico} `
+)
